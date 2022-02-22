@@ -1,0 +1,17 @@
+.boxContainer{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    position: absolute;
+    /* top: 0px;
+    left: 0px; */
+    background: blue;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+
+}
+
+.boxContainer:hover{
+    border: 2px solid rgb(54, 7, 7);
+}
